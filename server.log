@@ -19,3 +19,8 @@ Mon Aug 28 2017 12:34:04 GMT+0700 (SE Asia Standard Time): GET /
 Mon Aug 28 2017 12:34:38 GMT+0700 (SE Asia Standard Time): GET /about
 Tue Aug 29 2017 02:28:51 GMT+0700 (SE Asia Standard Time): GET /
 Tue Aug 29 2017 02:28:52 GMT+0700 (SE Asia Standard Time): GET /favicon.ico
+Tue Aug 29 2017 02:35:53 GMT+0700 (SE Asia Standard Time): GET /
+Tue Aug 29 2017 07:04:57 GMT+0700 (SE Asia Standard Time): GET /
+Tue Aug 29 2017 07:04:57 GMT+0700 (SE Asia Standard Time): GET /favicon.ico
+Tue Aug 29 2017 07:04:59 GMT+0700 (SE Asia Standard Time): GET /about
+Tue Aug 29 2017 07:05:07 GMT+0700 (SE Asia Standard Time): GET /projects
